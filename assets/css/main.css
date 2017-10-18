@@ -1874,21 +1874,31 @@
 
 /* Section/Article */
 
+  #github-link{
+    opacity: 0.8
+  }
+
+  #github-link:hover{
+    opacity: 1;
+  }
 	section.special, article.special {
 		text-align: center;
 	}
+
+  #appstore{
+    height: 67px;
+    width: 218px;
+  }
 
 	header p {
 		color: #a8b0b3;
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
 	}
-  header h1 {
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
-  }
-  
-	header h1 + p {
+
+	header h1, header p {
 		margin-top: -1em;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 	}
 
 	header h2 + p {
