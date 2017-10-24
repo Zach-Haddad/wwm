@@ -1,4 +1,4 @@
-### Walk With Me Demo Page
+### Walk With Me [Demo Page](http://zach-haddad.com/wwm)
 
 Demo page created for Walk With Me, an iOS app in development.  View full project [here][1]
 
